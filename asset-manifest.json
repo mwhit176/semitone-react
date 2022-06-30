@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/starter-project/static/css/main.b183010b.css",
-    "main.js": "/starter-project/static/js/main.4e4adf2f.js",
-    "static/media/cart.png": "/starter-project/static/media/cart.7961bf5655006c6019cc.png",
-    "static/media/strat.jpg": "/starter-project/static/media/strat.27e3edaad1f34ce0be41.jpg",
-    "static/media/home.png": "/starter-project/static/media/home.a5717fb83631fa64742e.png",
-    "index.html": "/starter-project/index.html",
-    "main.b183010b.css.map": "/starter-project/static/css/main.b183010b.css.map",
-    "main.4e4adf2f.js.map": "/starter-project/static/js/main.4e4adf2f.js.map"
+    "main.css": "/mwhit176/semitone-site/static/css/main.b183010b.css",
+    "main.js": "/mwhit176/semitone-site/static/js/main.defe774d.js",
+    "static/media/cart.png": "/mwhit176/semitone-site/static/media/cart.7961bf5655006c6019cc.png",
+    "static/media/strat.jpg": "/mwhit176/semitone-site/static/media/strat.27e3edaad1f34ce0be41.jpg",
+    "static/media/home.png": "/mwhit176/semitone-site/static/media/home.a5717fb83631fa64742e.png",
+    "index.html": "/mwhit176/semitone-site/index.html",
+    "main.b183010b.css.map": "/mwhit176/semitone-site/static/css/main.b183010b.css.map",
+    "main.defe774d.js.map": "/mwhit176/semitone-site/static/js/main.defe774d.js.map"
   },
   "entrypoints": [
     "static/css/main.b183010b.css",
-    "static/js/main.4e4adf2f.js"
+    "static/js/main.defe774d.js"
   ]
 }
